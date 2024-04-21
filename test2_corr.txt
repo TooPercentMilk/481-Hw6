@@ -1,0 +1,9 @@
+....
+file
+has
+a
+new
+word
+on
+each
+line.
