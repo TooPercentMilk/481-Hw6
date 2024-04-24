@@ -6,4 +6,4 @@ new
 word
 on
 each
-line.....
+line.

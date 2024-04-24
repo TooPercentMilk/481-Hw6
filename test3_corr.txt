@@ -1,0 +1,3 @@
+^^^^^^^^s all about seek and tell
+I'd like to see how it interacts with the file handle.
+Hopefully we pass the test.
